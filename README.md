@@ -2,7 +2,7 @@
 
 * 👨‍💻 23届大学生 Graduated in 2023
 * 💬 wechat： 
-* :e-mail: email：lxhworks@163.com
+* :e-mail:
 
 <!-- ![Metrics](https://metrics.lecoq.io/SuZui-cn?template=classic&base.header=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai) -->
 
